@@ -11,7 +11,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=[https://github.com/team-katil/BanallBot](https://github.com/THE-VIP-BOY-OP/VIP-BANALL))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BLACK-ON-FIRE/Banall)
 
 # Credits
 * [RiZoeL](https://github.com/MrRizoel)
